@@ -559,7 +559,7 @@ class _CardsPageState extends State<CardsPage> {
             children: [
               Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
                 const Text('CARD HOLDER', style: TextStyle(color: Colors.white54, fontSize: 9, letterSpacing: 1)),
-                const Text('ISHRAK ALAM', style: TextStyle(color: Colors.white, fontSize: 13, fontWeight: FontWeight.w600)),
+                const Text('Anni Rahman Tahrim Tabassum', style: TextStyle(color: Colors.white, fontSize: 13, fontWeight: FontWeight.w600)),
               ]),
               Column(crossAxisAlignment: CrossAxisAlignment.end, children: [
                 const Text('EXPIRES', style: TextStyle(color: Colors.white54, fontSize: 9, letterSpacing: 1)),
